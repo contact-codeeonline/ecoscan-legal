@@ -25,7 +25,7 @@ Chúng tôi không bán hoặc chia sẻ dữ liệu của bạn cho mục đíc
 
 ## Thời gian lưu trữ và xóa dữ liệu
 Dữ liệu được lưu [trong thời gian diễn ra nghiên cứu / tối đa 12 tháng] và sau đó sẽ bị xóa.
-Bạn có thể yêu cầu xóa dữ liệu bất cứ lúc nào bằng cách gửi email tới **[your-email]** kèm mã người tham gia (hiển thị trong mục [Cài đặt]). Chúng tôi sẽ xóa trong vòng 30 ngày.
+Bạn có thể yêu cầu xóa dữ liệu bất cứ lúc nào bằng cách gửi email tới **contact.codeeonline@gmail.com** kèm mã người tham gia (hiển thị trong mục [Cài đặt]). Chúng tôi sẽ xóa trong vòng 30 ngày.
 
 ## Trẻ em
 EcoScan không dành cho trẻ em dưới 13 tuổi.
@@ -34,6 +34,6 @@ EcoScan không dành cho trẻ em dưới 13 tuổi.
 Khi chính sách thay đổi, chúng tôi sẽ cập nhật trang này và ngày "Cập nhật lần cuối".
 
 ## Liên hệ
-[Tên của bạn / tổ chức] – [your-email]
+Dennis Nguyen / Codee.onlin – contact.codeeonline@gmail.com
 
 _Trường hợp có khác biệt giữa bản tiếng Việt và bản tiếng Anh, bản tiếng Anh được ưu tiên áp dụng._

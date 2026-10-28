@@ -25,7 +25,7 @@ We do not sell or share your data for advertising.
 
 ## Retention & deletion
 Data is kept [for the duration of the study / up to 12 months] and then deleted.
-To delete your data at any time, email **[your-email]** with your participant ID (shown in [Settings]). We will delete it within 30 days.
+To delete your data at any time, email **contact.codeeonline@gmail.com** with your participant ID (shown in [Settings]). We will delete it within 30 days.
 
 ## Children
 EcoScan is not directed to children under 13.
@@ -34,4 +34,4 @@ EcoScan is not directed to children under 13.
 We will update this page and the "Last updated" date when this policy changes.
 
 ## Contact
-[Your name / organization] – [your-email]
+[Dennis Nguyen / Codee.online] – [contact.codeeonline@gmail.com]
